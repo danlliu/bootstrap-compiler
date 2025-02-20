@@ -14,7 +14,7 @@ oh dear
 
 Each phase has a directory associated with it, starting with 0. The output of each phase will be an executable of the same name (for example, `./0/0`). Each
 stage will build upon previous stages to slowly build up more functionality. The only thing I'm allowed to write executables with is a hex editor for stage 0
-to get started, and then my previous executables. Input/output redirection is used with these executables to generate what is needed.
+to get started, and then my previous executables. Input/output redirection is used with these executables to generate what is needed. No using assemblers... RTFM.
 
 ## System
 
